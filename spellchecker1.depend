@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1752144398 source:c:\users\house of trading\documents\spell checker 1\spellchecker1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
